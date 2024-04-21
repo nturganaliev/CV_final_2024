@@ -1,0 +1,12 @@
+path: /home/nurlan/projects/computer_vision/final_project_2024
+train: images
+val: images
+
+
+names:
+  0: Nurlan
+  1: Aizhan
+  2: Chyngyz
+  3: Ademi
+  4: Aliia
+  5: Azamat

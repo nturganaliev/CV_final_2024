@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Ademi"
+    },
+    {
+      "id": 1,
+      "name": "Aizhan"
+    },
+    {
+      "id": 2,
+      "name": "Aliia"
+    },
+    {
+      "id": 3,
+      "name": "Azamat"
+    },
+    {
+      "id": 4,
+      "name": "Chyngyz"
+    },
+    {
+      "id": 5,
+      "name": "Nurlan"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
