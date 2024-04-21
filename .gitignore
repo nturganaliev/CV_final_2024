@@ -1,2 +1,4 @@
 images
 labels
+runs/detect/train
+runs/detect/train2
