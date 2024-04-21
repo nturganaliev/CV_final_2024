@@ -1,3 +1,5 @@
+labels.cache
+.venv
 images/*
 labels/*
 runs/detect/train/*
